@@ -1,0 +1,48 @@
+#customize-controls .control-section-example-1 .accordion-section-title:hover,
+#customize-controls .control-section-example-1 .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-example-1 .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+
+	.rtl .control-section-example-1 .accordion-section-title .button {
+		margin-left:  0;
+		margin-right: 8px;
+	}
+.wp-core-ui .button.upsell-button {
+	background-color: #d65050;
+	border-color: #d65050;
+	color: #fff;
+	box-shadow: none;
+	transition: all 0.3s;
+}
+.wp-core-ui .button.upsell-button:hover {
+	background-color: #ad3333;
+	border-color: #ad3333;
+}
+#customize-theme-controls #accordion-section-sydney_upsell h3 {
+	background-color: #f7f7f7;
+	padding: 25px 14px;
+}
+
+.sydney-upsell-feature-wrapper {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	padding-top: 10px;
+}
+.sydney-upsell-feature-wrapper p {
+	-webkit-box-flex: 1;
+	    -ms-flex-positive: 1;
+	        flex-grow: 1;
+}
+.sydney-upsell-feature-wrapper p:last-of-type {
+	text-align: right;
+}
