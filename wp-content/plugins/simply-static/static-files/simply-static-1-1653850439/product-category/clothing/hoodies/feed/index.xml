@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hoodies &#8211; EarthShastri</title>
+	<atom:link href="http://www.earthshastri.github.io/product-category/clothing/hoodies/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.earthshastri.github.io/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 03 Aug 2020 12:35:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Hoodie</title>
+		<link>http://www.earthshastri.github.io/product/hoodie/</link>
+					<comments>http://www.earthshastri.github.io/product/hoodie/#respond</comments>
+		
+		<dc:creator><![CDATA[ESAdmin]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2020 12:35:28 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.athemes.com/sydney-shop/product/import-placeholder-for-45/</guid>
+
+					<description><![CDATA[This is a variable product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://www.earthshastri.github.io/product/hoodie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hoodie with Logo</title>
+		<link>http://www.earthshastri.github.io/product/hoodie-with-logo/</link>
+					<comments>http://www.earthshastri.github.io/product/hoodie-with-logo/#respond</comments>
+		
+		<dc:creator><![CDATA[ESAdmin]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2020 12:35:28 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.athemes.com/sydney-shop/product/import-placeholder-for-46/</guid>
+
+					<description><![CDATA[This is a simple product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://www.earthshastri.github.io/product/hoodie-with-logo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hoodie with Zipper</title>
+		<link>http://www.earthshastri.github.io/product/hoodie-with-zipper/</link>
+					<comments>http://www.earthshastri.github.io/product/hoodie-with-zipper/#respond</comments>
+		
+		<dc:creator><![CDATA[ESAdmin]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2020 12:35:28 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.athemes.com/sydney-shop/product/import-placeholder-for-66/</guid>
+
+					<description><![CDATA[This is a simple product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://www.earthshastri.github.io/product/hoodie-with-zipper/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
